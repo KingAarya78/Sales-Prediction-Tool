@@ -55,11 +55,19 @@ cover/
 *.mo
 *.pot
 
+# Output directory from our script
+output/
+output-images.zip
+
 # Django stuff:
 *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+
+# Dataset (Uncomment and edit if your dataset is large and shouldn't be committed)
+# advertising.csv
+# *.csv
 
 # Flask stuff:
 instance/
