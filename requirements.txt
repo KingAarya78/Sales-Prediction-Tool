@@ -1,3 +1,5 @@
+# requirements.txt for Sales Prediction Tool Project
+
 pandas 
 numpy 
 matplotlib 
