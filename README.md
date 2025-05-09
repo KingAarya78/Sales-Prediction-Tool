@@ -38,6 +38,10 @@ git clone https://github.com/KingAarya78/Sales-Prediction-Tool.git
 # Navigate to the project directory
 cd sales-prediction
 
+# Create a virtual enviournment for installation
+python -m virtualenv venv
+.\venv\Scripts\activate 
+
 # Install required packages
 pip install -r requirements.txt
 ```
@@ -47,6 +51,9 @@ pip install -r requirements.txt
 ```bash
 # Run the main script
 python sales_prediction.py
+
+# Deactivate venv
+deactivate
 ```
 
 ## Requirements
