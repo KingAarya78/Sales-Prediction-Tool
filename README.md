@@ -66,6 +66,9 @@ The model successfully predicts sales based on advertising expenditure, with the
 - There are synergistic effects between advertising channels
 - The optimal advertising budget allocation is provided based on model insights
 
+![feature_importance](https://github.com/user-attachments/assets/352cdc38-67d6-4f7e-91a6-c1432d767624)
+
+
 ## Visualizations
 
 The project includes several visualizations to help understand the data and model performance:
